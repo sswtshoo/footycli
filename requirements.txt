@@ -1,0 +1,6 @@
+requests==2.32.4
+rich
+dotenv
+schedule
+blessed
+textual
